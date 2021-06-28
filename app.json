@@ -1,8 +1,8 @@
 {
-    "name": "Calls Music 2",
+    "name": "super x Music ",
     "description": "Stream audio in Telegram group calls using GramJS and tgcallsjs",
     "keywords": ["telegram", "music"],
-    "repository": "https://github.com/callsmusic/callsmusic2",
+    "repository": "https://github.com/shivam-op/superx",
     "env": {
         "STRING_SESSION": {
             "description": "A GramJS/Telethon string session. You can generate one at https://rojserbest.github.io/bssg.",
